@@ -1,5 +1,8 @@
 # agent-data-toolkit (x402 + DeepSeek)
 
+> **Estado:** proyecto en desarrollo. El servicio no tiene una instancia desplegada en este momento;
+> el código es funcional y se ejecuta en local siguiendo las instrucciones de más abajo.
+
 **Autor y creador original: Nicolás Ángel Rojas Yáñez © 2026.**
 Distribuido bajo licencia MIT: todo uso o copia de este software debe conservar
 el aviso de copyright del autor (ver [LICENSE](LICENSE)). Eliminar la atribución
